@@ -4,4 +4,4 @@ This details a sampling map for a population genetics study currently being cond
 
 https://mgdesaix.shinyapps.io/sitesshiny/
 
-Shiny and Leaflet provide useful interactive tools for spatial data visualization.  In addition to the sampling sites, layers were added to show the seasonal distribution of PROW, as well as Breeding Bird Survey layers for relative abundance and trends.  Sampling was increased in regions of high abundance.
+Shiny and Leaflet provide useful interactive tools for spatial data visualization.  In addition to the sampling sites, layers were added to show the seasonal distribution of PROW, as well as Breeding Bird Survey layers for relative abundance and trends. 
