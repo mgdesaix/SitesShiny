@@ -8,6 +8,6 @@ Shiny and Leaflet provide useful interactive tools for spatial data visualizatio
 
 For an introduction to using Leaflet and Shiny in this manner, see below:
 
-https://mgdesaix.github.io/SitesShiny/
+https://mgdesaix.github.io/SitesShiny/index.html
 
 ![A male *P. citrea* at Deep Bottom Park along the lower James River in Virginia](https://raw.githubusercontent.com/mgdesaix/SitesShiny/master/PROW.png)
