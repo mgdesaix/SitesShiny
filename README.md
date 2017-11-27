@@ -1,6 +1,6 @@
 # SitesShiny
 
-This details a sampling map for a population genetics study currently being conducted on *Protonotaria citrea* (PROW), a neotropical migratory songbird.  
+This details a sampling map for a population genetics study currently being conducted on *Protonotaria citrea* (PROW), a neotropical migratory songbird. The Shiny map can be seen here:
 
 https://mgdesaix.shinyapps.io/sitesshiny/
 
