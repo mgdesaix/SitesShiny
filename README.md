@@ -1,10 +1,10 @@
 # SitesShiny
 
-This details a sampling map for a population genetics study currently being conducted on *Protonotaria citrea* (PROW), a neotropical migratory songbird. The Shiny map can be seen here:
+Shiny and Leaflet provide useful interactive tools for spatial data visualization.  This provides an example of a sampling map for a population genetics study currently being conducted on *Protonotaria citrea* (PROW), a neotropical migratory songbird. The Shiny map can be seen here:
 
 https://mgdesaix.shinyapps.io/sitesshiny/
 
-Shiny and Leaflet provide useful interactive tools for spatial data visualization.  In addition to the sampling sites, layers were added to show the seasonal distribution of PROW, as well as Breeding Bird Survey layers for relative abundance and trends. 
+In addition to the sampling sites, layers were added to show the seasonal distribution of PROW, as well as Breeding Bird Survey layers for relative abundance and trends. 
 
 For an introduction to using Leaflet and Shiny in this manner, see below:
 
