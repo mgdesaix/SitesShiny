@@ -6,6 +6,6 @@ In addition to the sampling sites, layers were added to show the seasonal distri
 
 For an introduction to using Leaflet and Shiny in this manner, see below:
 
-https://mgdesaix.github.io/SitesShiny/index.md
+https://mgdesaix.github.io/SitesShiny/
 
 ![A male *P. citrea* at Deep Bottom Park along the lower James River in Virginia](https://raw.githubusercontent.com/mgdesaix/SitesShiny/master/PROW.png)
